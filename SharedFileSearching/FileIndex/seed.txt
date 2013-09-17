@@ -1,0 +1,11 @@
+\\es1fileserver.corp.emc.com\Share\Team
+-\\es1fileserver.corp.emc.com\Share\Team\Software\Development\Team Explore 2005
+-\\es1fileserver.corp.emc.com\Share\Team\ES1DevBuilds
+\\es1fileserver.corp.emc.com\Share\Public
+-\\es1fileserver.corp.emc.com\Public\Sourceone6.7Build
+\\es1fileserver.corp.emc.com\Share\Personal
+\\es1fileserver.corp.emc.com\Share\Projects
+\\10.62.40.251\Share
+\\10.37.11.119\Documentation
+\\10.37.11.119\TestUtilities
+\\10.37.11.119\toi

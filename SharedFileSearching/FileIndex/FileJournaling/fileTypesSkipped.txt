@@ -1,0 +1,3 @@
+﻿,.dll,.pdb,.cs,.resx,.csproj,.vcproj,.cpp,.manifest,.sln,.suo,.resources,.log,.gen,.xml,.xsl,.config,.xaml,.ico,.sql,.emx,.eml,.bat,.vbs,.rss,.rdl,.c,.h,.dat,.lib,.tmp,.obj,.js,.gif,.css,.asp,.jsp,.php,.rc,.rc2
+
+Note: The first line is for the configuration that which type of document that will be skipped by the tool, and all the files with these types will not be indexed 

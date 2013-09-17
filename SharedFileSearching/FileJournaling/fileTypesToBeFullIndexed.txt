@@ -1,0 +1,3 @@
+﻿.pdf,.ppt,.pptx,.doc,.docx
+
+Note: The first line is for the configuration that which type of document that will be full text indexed 
