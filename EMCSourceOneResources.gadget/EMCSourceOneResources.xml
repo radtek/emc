@@ -1,0 +1,41 @@
+<emcsourceoneresourcesgadget>
+	<FILESERVERS>
+		<title>File Servers for S1 Team</title>
+		<entry type="website" url="file://es1fileserver.corp.emc.com" title="Team File Server: Projects, Techtalk, Team Building, Team Pictures">S1 File Server</entry>
+		<entry type="website" url="file://10.37.11.119" title="Build File Server: SourceOne Builds In Shanghai">S1 Builds China</entry>
+		<entry type="website" url="file://10.5.102.30" title="Build File Server: All SourceOne Builds In Nashua">S1 Builds Nashua</entry>
+		<entry type="website" url="file://10.62.40.251" title="Team File Server: Software, Sharing">S1 Team Softwares</entry>
+		<entry type="website" url="file://na-labfs01.otg.com" title="Nashua Lab File Share">Nashua Lab Files</entry>
+		<entry type="website" url="file://BuildFileServer.es1.com" title="ES1 Build File Server: All Source One Builds">ES1.COM Builds</entry>
+		<entry type="website" url="file://TeamFileServer.es1.com" title="ES1 Team File Server: Software, Sharing">ES1.COM Files</entry>
+	</FILESERVERS>
+	<WEBSITES>
+		<title>Web Sites for S1 Team</title>
+		<entry type="website" url="http://opseroom03.corp.emc.com/eRoom/osooperations/EMC-SourceOne7x/0_13284d" title="E-Room: S1 7.1 Doc">7.1 Doc E-Room</entry>
+		<entry type="website" url="https://jazzapps.otg.com:9443/ccm" title="Jazz: Requirement, Change, Quality Management System">Jazz: Scrum</entry>
+		<entry type="website" url="https://10.32.175.161/LabManager/Login.aspx" title="S1 China Lab Manager">China Lab Manager</entry>
+		<entry type="website" url="https://10.25.4.10/LabManager/Login.aspx" title="Nashua Lab Manager">Nashua Lab Manager</entry>
+		<entry type="website" url="http://storm.corp.emc.com:8080/display/EMAILXTENDER/SourceOne+Development+Home" title="SourceOne Development Home">Development Wiki</entry>
+		<entry type="website" url="http://twiki.emccrdc.com/twiki/bin/view/BRS/SourceOne/WebHome" title="SourceOne Team Twiki Site: Knowledges, Infos">China Team Twiki</entry>
+		<entry type="website" url="http://na-nasintranet.otg.com/webdispatcher/" title="S1 Release Management System: Build Dispatcher...">Release Engineering</entry>
+		<entry type="website" url="http://channelemc.corp.emc.com/" title="Channel EMC">Channel EMC</entry>
+		<entry type="website" url="http://opseroom01.corp.emc.com/eRoom" title="SourceOne E-Room: Document sharing and management system">E-Room</entry>
+		<entry type="website" url="http://powerlink.emc.com/" title="EMC PowerLink: Support documents">EMC PowerLink</entry>
+	</WEBSITES>
+	<QASITES>
+		<title>Web Sites for S1 QA</title>
+		<entry type="website" url="http://na-ccrc.otg.com:12080/cqweb/" title="Defect Tracking System for S1 team.">Clear Quest</entry>
+		<entry type="website" url="http://na-sharepoint.otg.com/EMCSourceOne/Departments/Engineering/Sustaining/SitePages/Home.aspx" title="S1 Sustaining Engineering">S1 Sustaining Engineering</entry>
+		<entry type="website" url="http://na-sharepoint.otg.com/EMCSourceOne/Departments/Engineering/QualityAssurance/Sustaining/SitePages/Home.aspx" title="SourceOne Sustaining Engineering QA">S1 Sustaining Engineering QA</entry>
+	</QASITES>
+	<FACILITIES>
+		<title>Facilities for S1 Team</title>
+		<entry type="website" url="http://rooms.emccrdc.com/conference/index.php" title="Conference Room Reservation System">Conference Room Reservation</entry>
+		<entry type="website" url="https://portal.globalview.adp.com/emc" title="EMC Employer Services: Payroll HR Solutions">Payroll</entry>
+		<entry type="website" url="http://twiki.emccrdc.com/twiki/bin/view/BRS/SourceOne/TeamVacationCalendar" title="Team member's vocation plan">Team Vacation Calendar</entry>
+		<entry type="website" url="http://mylearn.emc.com/portals/apac/" title="Training site of EMC">EMC My Learning</entry>
+		<entry type="website" url="http://one.emc.com/clearspace/index.jspa" title="Online Networks of EMCers">EMC One Network</entry>
+		<entry type="website" url="https://ramp.corp.emc.com/RequestsView.aspx" title="Submit the Action Request for the access issues">Access Management Portal</entry>
+		<entry type="website" url="https://we.alipay.com/groupay/index.htm" title="Build File Server: All SourceOne Builds">Alipay Groupay</entry>
+	</FACILITIES>
+</emcsourceoneresourcesgadget>

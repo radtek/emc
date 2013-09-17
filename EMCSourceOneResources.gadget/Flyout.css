@@ -1,0 +1,81 @@
+body {
+  margin: 4px;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 20px;
+  height:350px;
+  width:300px;
+  }
+#navigator a,span{
+float: left;
+margin:0px 1px 0px 10px;
+}
+
+.flyout {
+  clear:both;
+  height: 250px;
+  width: 100%;
+  }
+
+.txtblock {
+  margin-top: 10px;
+  clear: both;
+  }
+
+.infotitle {
+  clear:left;
+  float:left;
+  font-weight: bold;
+  font-size: 16px;
+  color:#008000;
+  }
+
+.infoset {
+  clear:both;
+  width:100%;
+  }
+
+.infofield {
+  color:#000080;
+  font-weight: bold;
+  font-size: 12px;
+  float:left;
+  }
+
+.infodata {
+  float:left;
+  font-size:12px;
+  }
+
+.topbuttons {
+  width: 100%;
+  margin:0px;
+  padding: 2px;
+  }
+
+.ticker {
+  width:100%;
+  display: block;
+  border-top: 2px solid #000080;
+  padding-top: 5px;
+  margin-top: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  }
+
+.topbutton {
+  float: right;
+  }
+
+.copybutton {
+  float:right;
+  display:none;
+  }
+
+.caption {
+  float:left;
+  font-size:16px;
+  color: #005500;
+  text-decoration:underline;
+  }

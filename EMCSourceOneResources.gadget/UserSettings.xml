@@ -1,0 +1,10 @@
+<Settings>
+	<location>FILESERVERS</location>
+	<smallsel>WEBSITES</smallsel>
+	<bigsel>FILESERVERS,WEBSITES,QASITES,FACILITIES</bigsel>
+	<LastUpdatedUR>Thursday, July 04, 2013 6:46:13 PM</LastUpdatedUR>
+	<LastUpdated>1372934773557</LastUpdated>
+	<searchServerURL>http://CNRDWANGN6L1C.corp.emc.com:8983/solr/SourceOne/</searchServerURL>
+	<cqServerViewURL>http://na-ccrc.otg.com:12080/cqweb/#/7.0.0/CQSDR/RECORD/</cqServerViewURL>
+	<fullTextSearchServerURL>http://CNRDWANGN6L1C.corp.emc.com:8983/solr/FullIndex/</fullTextSearchServerURL>
+</Settings>

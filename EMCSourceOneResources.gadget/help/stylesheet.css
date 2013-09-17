@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, p, h1, div, td {
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+line-height:26px;
+}
+
+html, body, div, dl, dt, dd, ul,  li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td {
+margin:0px;
+padding:0px;
+}
+
+img {
+border:none;
+margin-top:10px;
+}
+
+body {
+background:#ffffff;
+}
+
+h1 {font-size:26px; color:#2d78be; font-weight:bold;margin:0px 0px 5px 0px;line-height:18px}
+h2 {font-size:24px; font-wieght:bold;margin:0px 0px 0px 0px;line-height:20px;color:#808080}
+h3 {font-size:22px; font-wieght:bold;margin:0px 0px 15px 0px;line-height:16px;color:#404040}
+
+a, a:visited, a:active {
+color:#0000cc;
+font-weight:normal;
+text-decoration:none;
+}
+
+a:hover {
+text-decoration:underline;
+color:#478cd6;
+}
+
+table {border-collapse:collapse;}
+td {border-collapse:collapse;padding:0px;}
+
+.grid { border-collapse:collapse; border:1px solid #d8d8d8;margin-bottom:10px;}
+.grid td { padding:4px; border:1px solid #d8d8d8}
+.grid th { text-align:left; padding:4px; border:1px solid #d8d8d8}
+
+table.nogrid  { padding:0px; border:0px solid #d8d8d8 !important}
+.nogrid  td { padding:0px; border:0px solid #d8d8d8 !important}
+.nogrid  th { text-align:left; padding:0px; border:0px solid #d8d8d8 !important}
+
+/* topbanner */
+
+.topbanner {
+background:url(topbanner_bg.gif);
+height:100px;
+color:#FFFFFF;
+border-bottom:2px solid #000000;
+width:100%;
+}
+
+.emclogo {
+background:url(logo_emc.gif) repeat-x;
+width:110px;
+height:100px;
+margin-right:40px;
+position:relative;
+top:20px;
+left:20px;
+float:left;
+}
+
+.bannertext {
+font-size: 40px;
+color:#ffffff;
+float:left;
+height:70px;
+padding-top:25px;
+}
+
+.break {
+clear:both;
+padding-top:15px;
+}
+
+
+.main {
+clear:both;
+margin-left:10%;
+width:80%;
+}
+
+.par {
+clear:both;
+margin-top:30px;
+float:left;
+width:100%;
+}
+
+.pic {
+float:right;
+}
+
+.pictext {
+margin-right:5px;
+float:left;
+}
+
+.center {
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+}
+
+.footer {
+  height:50px;
+  text-align: bottom;
+  font-size: 8px;
+  }
+

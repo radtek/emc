@@ -1,0 +1,39 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Unicode" />
+<title>EMC Resources</title>
+<link rel="stylesheet" type="text/css" href="Common.css" />
+<link rel="stylesheet" type="text/css" href="MainGadget.css" />
+<script type="text/jscript" language="javascript" src="Common.js"></script>
+<script type="text/jscript" language="javascript" src="MainGadget.js"></script>
+</head>
+
+<body>
+<g:background id="gbackground">
+<div id="contacts">
+<div id="leftcol" class="leftcol"></div>
+<div id="rightcol" class="rightcol"></div>
+</div>
+
+<div id="bottom">
+<div id="search">
+	<input type="text" id="q" onkeydown ="enterPressed();"/>	
+	<div id="bSearch" onclick="ShowFlyout('search'); return false;" title="Search..."></div>
+	<div id="bFullTextSearch" onclick="ShowFlyout('fullTextSearch'); return false;" title="Full Text Search..."></div>
+</div>
+<div id="flyoutlinks">
+<a id="allicon" href="" onclick="ShowFlyout('all');return false;" title="show all..."></a>&nbsp;
+<a id="infoicon" href="" onclick="ShowFlyout('info');return false;" title="info..."></a>&nbsp;
+<a id="helpicon" href="" onclick="ShowIE('.\\help\\EMCResourcesHelp.htm');return false;" title="help..."></a>&nbsp;
+<a id="fbicon" title="feedback..."></a> 
+</div>
+</div>
+<div id="branding" class="branding">
+<img src="images/brandingsmall.png" />
+</div>
+</g:background>
+<div id="settingsopen" style="display:none;">false</div>
+<div id="flyoutcommand" style="display:none;"></div>
+<div id="didupdate" style="display:none;">No</div>
+</body>
+</html>
